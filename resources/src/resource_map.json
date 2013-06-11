@@ -1,0 +1,17 @@
+{
+	"friendlyVersion": "VERSION",
+ 	"versionDefName": "APP_RESOURCES",
+ 	"media": [
+		{
+			"type":"png",
+			"defName":"JEEP_BACKGROUND",
+			"file":"images/jeep_background.png"
+		},
+		{
+			"type": "font",
+			"characterRegex": "[:0-9]",
+			"defName": "FONT_HELVETICA_BLACK_44",
+			"file": "fonts/Helvetica-Black-SemiBold.ttf"
+		}
+	]
+}
