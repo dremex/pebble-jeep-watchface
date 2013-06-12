@@ -3,6 +3,11 @@
  	"versionDefName": "APP_RESOURCES",
  	"media": [
 		{
+			"defName": "MENU_ICON_JEEP",
+            "type": "png",
+            "file": "images/menu_icon_jeep.png"
+		},
+		{
 			"type":"png",
 			"defName":"JEEP_BACKGROUND",
 			"file":"images/jeep_background.png"
@@ -11,6 +16,12 @@
 			"type": "font",
 			"characterRegex": "[:0-9]",
 			"defName": "FONT_HELVETICA_BLACK_44",
+			"file": "fonts/Helvetica-Black-SemiBold.ttf"
+		},
+		{
+			"type": "font",
+			"characterRegex": "[0-9adeFhiMnorSTtuW ]",
+			"defName": "FONT_HELVETICA_BLACK_26",
 			"file": "fonts/Helvetica-Black-SemiBold.ttf"
 		}
 	]
